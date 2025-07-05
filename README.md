@@ -32,5 +32,5 @@ Clone this repository to your local machine. The project files are organized in 
 - The `templates/` folder contains `index.html` for the frontend interface.  
 - The `static/` folder contains supporting files such as `script.js` for frontend JavaScript and `styles.css` for CSS styling.
 
-To run the app, first install the required Python packages (Flask, TensorFlow, Pillow, NumPy, etc.). Then run:
+To run the app, first install the required Python packages (Flask, TensorFlow, Pillow, NumPy, etc.).
 
